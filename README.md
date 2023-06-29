@@ -1,14 +1,14 @@
 # 📝 About Me
-- 👋 Hi, I’m @StrawberryMaster (or Felipe/Jordan)
+- 👋 Hi, I’m @StrawberryMaster (or Felipe)
 - 🌱 I write stuff sometimes, and I work on things sometimes too
 - 🎮 Likes playing games, watching cartoons, and listening to music
 - 👀 I’m also interested in programming, music, and politics
 
 # 📚 Projects
-- [experiments](https://github.com/StrawberryMaster/experiments) - A collection of random experiments
-- [HHWValues](https://github.com/StrawberryMaster/HHWValues) - A political values test
-- [cyclone-sim](https://github.com/StrawberryMaster/cyclone-sim) - A slightly more updated fork of Monsoonjr99's Cyclone Sim
-- [TrackGen](https://github.com/StrawberryMaster/TrackGen) - A fork of CodingCactus's TrackGen, now working on GitHub Pages
+- [experiments](https://github.com/StrawberryMaster/experiments) - A collection of random experiments. My wallet's down there, too
+- [HHWValues](https://github.com/StrawberryMaster/HHWValues) - A political values test for a community I worked in
+- [cyclone-sim](https://github.com/StrawberryMaster/cyclone-sim) - A slightly more updated fork of Monsoonjr99's Cyclone Sim. I do random stuff there, may be outdated by the time you see it
+- [TrackGen](https://github.com/StrawberryMaster/TrackGen) - An actually functional fork of CodingCactus's TrackGen
 - [PFM](https://github.com/StrawberryMaster/PFM) - A Discord bot for fun and games
 
 # 📈 My Stats
