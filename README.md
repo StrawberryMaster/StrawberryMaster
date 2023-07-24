@@ -3,7 +3,7 @@
 * I write stuff sometimes, and I work on things sometimes too
 * Sometimes I also cook
 ## GitHub-related stuff:
-* learning <span style="color:orange">**Python**</span> in school, it's a living
+* learning **Python** in college, it's a living
 
 # 📚 Projects
 - [experiments](https://github.com/StrawberryMaster/experiments) - A collection of random experiments. My wallet's down there, too
@@ -13,8 +13,6 @@
 - [PFM](https://github.com/StrawberryMaster/PFM-js) - A Discord bot for fun and games
 
 ![metrics](/github-metrics.svg)
-
-![stats](https://github-readme-stats.vercel.app/api?username=StrawberryMaster&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawberryMaster&layout=compact&theme=chartreuse-dark)
 <!---
 StrawberryMaster/StrawberryMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
