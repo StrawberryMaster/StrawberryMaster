@@ -1,14 +1,16 @@
-# Greetings, I'm Felipe
-## Stuff about me:
-* I write stuff sometimes, and I work on things sometimes too
-* Sometimes I also cook
-## GitHub-related stuff:
+# Greetings! 🖖
+I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neocities.org/teahouse)), chef-in-the-making and part-time developer. I'm not boring, I promise!
+
+### :hammer_and_wrench: Languages and tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,git,bun" />
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=vscode,ps,regex,gulp,webpack" />
   </a>
 </p>
+
+---
 
 # 📚 Projects
 - [PFM](https://github.com/StrawberryMaster/PFM-js) - A Discord bot for fun and games
