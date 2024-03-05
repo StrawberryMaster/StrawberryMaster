@@ -20,7 +20,7 @@ I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neociti
 - [HHWValues](https://github.com/StrawberryMaster/HHWValues) - A political values test for a community I worked in
 
 ![metrics](/github-metrics.svg)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawberryMaster&layout=compact&theme=chartreuse-dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=StrawberryMaster&show_icons=true&locale=en&layout=compact&theme=radical)
 <!---
 StrawberryMaster/StrawberryMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
