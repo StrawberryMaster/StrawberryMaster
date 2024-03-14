@@ -4,9 +4,7 @@ I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neociti
 ### :hammer_and_wrench: Languages and tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,git,bun" />
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python,cpp" />
-    <img src="https://skillicons.dev/icons?i=vscode,ps,regex,gulp,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,git,bun,nodejs,js,ts,python,cpp,vscode,ps,regex,gulp,webpack&perline=5" />
   </a>
 </p>
 
