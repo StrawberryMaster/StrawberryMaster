@@ -4,11 +4,10 @@ I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neociti
 ### :hammer_and_wrench: Languages and tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,git,bun,nodejs,js,ts,python,cpp,vscode,ps,regex,gulp,webpack&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,git,bun,nodejs,js,ts,python,cpp,react,ruby,vscode,ps,regex,gulp,webpack,docker&perline=9" />
   </a>
 </p>
-
----
+<hr/>
 
 # 📚 Projects
 - [PFM](https://github.com/StrawberryMaster/PFM-js) - A Discord bot for fun and games
