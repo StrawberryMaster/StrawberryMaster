@@ -19,8 +19,8 @@ I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neociti
 - [cyclone-sim](https://github.com/StrawberryMaster/cyclone-sim) - A slightly more updated fork of Monsoonjr99's Cyclone Sim. I do random stuff there, may be outdated by the time you see it
 - [experiments](https://github.com/StrawberryMaster/experiments) - A collection of random experiments. My wallet's down there, too
 
-![metrics](/github-metrics.svg)
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=StrawberryMaster&show_icons=true&locale=en&layout=compact&theme=radical)
+![metrics](/github-metrics.svg)<br/>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawberryMaster&show_icons=true&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5)
 <!---
 StrawberryMaster/StrawberryMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
