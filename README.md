@@ -13,7 +13,7 @@ I'm Felipe, a bit of a quirky writer ([for real!](https://opapeldetrouxa.neociti
 - [PFM](https://github.com/StrawberryMaster/PFM-js) - A feature-rich Discord bot for fun and games. It doesn't bite, I swear
 - [TrackGen](https://github.com/StrawberryMaster/TrackGen) - An upgraded fork of CodingCactus's TrackGen, with dark theme support, multiple Blue Marble maps support, and speed enhancements
 - [hypo-track](https://github.com/StrawberryMaster/hypo-track) - A companion to TrackGen and a fork of the same program by Monsoonjr99. Included here are speed optimizations, support for custom themes, and smaller map sizes for better viewing
-- [wayback-machine-downloader](https://github.com/StrawberryMaster/wayback-machnine-downloader) - A Wayback Machine downloader, spooky. The functional version of a program with similar name, made in Ruby
+- [wayback-machine-downloader](https://github.com/StrawberryMaster/wayback-machine-downloader) - A Wayback Machine downloader, spooky. The functional version of a program with similar name, made in Ruby
 - [Weezersort](https://github.com/StrawberryMaster/weezersort) - What's with these homies dissing my girl?
 - [Liberal Crime Squad](https://github.com/StrawberryMaster/Liberal-Crime-Squad) - My attempt at cleaning up a fork of Liberal Crime Squad. See my fork of the next gen version [here](https://github.com/StrawberryMaster/lcs-new-age)
 - [cyclone-sim](https://github.com/StrawberryMaster/cyclone-sim) - A slightly more updated fork of Monsoonjr99's Cyclone Sim. I do random stuff there, may be outdated by the time you see it
